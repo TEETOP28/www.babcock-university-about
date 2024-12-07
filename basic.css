@@ -1,0 +1,38 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+img {
+    border-radius: 10px;
+}
+
+footer {
+    font-size: 0.9rem;
+}/*
+.background{
+    background-image: url(babcock.jpeg);
+    /* Desktop - 14 
+
+width: 1440px;
+height: 768px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(PXL_20231101_145612441.jpg);
+
+/* Inside auto layout 
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0; 
+
+}
